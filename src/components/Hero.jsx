@@ -17,8 +17,9 @@ const Hero = () => {
               Full Stack Software Engineer
             </h2>
             <p className="text-gray-700 mb-8 max-w-lg font-poppins">
-              I craft elegant digital experiences with a focus on clean design
-              and intuitive functionality.
+              Front-end Developer passionate about crafting intuitive web
+              experiences, leveraging React, TypeScript, and collaborative UX
+              expertise.
             </p>
             <div className="flex space-x-4 font-poppins">
               <a

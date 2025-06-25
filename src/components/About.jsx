@@ -33,15 +33,17 @@ const About = () => {
               A little about myself
             </h3>
             <p className="text-gray-700 mb-6">
-              I'm a 32-year-old full stack engineer passionate about building
-              robust, scalable applications. With over 8 years in the industry,
-              I've worked with startups and established companies to architect
-              efficient solutions.
+              I'm a front-end developer passionate about crafting intuitive,
+              engaging web experiences. With a background in React, TypeScript,
+              and collaborative UX design, I thrive on creating solutions that
+              are both visually appealing and user-centric.
             </p>
             <p className="text-gray-700 mb-8">
-              My approach combines technical expertise with attention to detail,
-              ensuring systems are both powerful and maintainable. I specialize
-              in JavaScript ecosystems but love learning new technologies.
+              My approach blends technical expertise with meticulous attention
+              to detail, ensuring solutions are robust, maintainable, and
+              scalable. While I specialize in the JavaScript ecosystem, I'm also
+              experienced in backend technologies and thrive as a full-stack
+              developer, continuously expanding my skills.
             </p>
 
             <div className="mb-8">
