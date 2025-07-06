@@ -20,6 +20,7 @@ const projectsData = [
     description:
       "Mobile application for discovering and booking unique travel experiences.",
     year: "2025",
+    link: "https://blog.laurah.dev",
   },
   {
     imgSrc: bandb,
@@ -72,6 +73,7 @@ const Projects = () => {
               title={project.title}
               description={project.description}
               year={project.year}
+              link={project.link}
             />
           ))}
         </div>

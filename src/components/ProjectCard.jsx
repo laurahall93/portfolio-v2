@@ -1,6 +1,6 @@
 import React from "react";
 
-const ProjectCard = ({ imgSrc, title, description, year }) => {
+const ProjectCard = ({ imgSrc, title, description, year, link }) => {
   return (
     <div className="project-card bg-white rounded-lg overflow-hidden font-poppins">
       <div className="h-48 overflow-hidden">
@@ -15,7 +15,7 @@ const ProjectCard = ({ imgSrc, title, description, year }) => {
         <p className="text-gray-700 mb-4">{description}</p>
         <div className="flex justify-between items-center">
           <a
-            href="#"
+            href={link != undefined ? link : "#"}
             className="text-gray-700 hover:text-gray-900 flex items-center"
           >
             <span>View Project</span>
