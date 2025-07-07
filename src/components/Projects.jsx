@@ -9,19 +9,18 @@ import taskmaster from "../assets/taskmaster.png";
 
 const projectsData = [
   {
-    imgSrc: santa,
-    title: "Secret Santa",
-    description:
-      "Comming soon. Share your wishlist and let the app send gift ideas to your gifter — no awkward guessing, just perfect surprises!",
-    year: "2025",
-  },
-  {
     imgSrc: blog,
     title: "She Codes & Grow",
     description:
-      "Live. Mobile application for discovering and booking unique travel experiences.",
+      "Live now. Mobile application for discovering and booking unique travel experiences.",
     year: "2025",
     link: "https://blog.laurah.dev",
+  },
+  {
+    imgSrc: taskmaster,
+    title: "ChoreMaster",
+    description: "In Development. Task companion for your everyday life",
+    year: "2025",
   },
   {
     imgSrc: bandb,
@@ -45,9 +44,10 @@ const projectsData = [
     year: "2025",
   },
   {
-    imgSrc: taskmaster,
-    title: "ChoreMaster",
-    description: "Comming soon. Task companion for your everyday life",
+    imgSrc: santa,
+    title: "Secret Santa",
+    description:
+      "Comming soon. Share your wishlist and let the app send gift ideas to your gifter — no awkward guessing, just perfect surprises!",
     year: "2025",
   },
 ];
