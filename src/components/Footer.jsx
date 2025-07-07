@@ -38,12 +38,14 @@ const Footer = () => {
           <div className="flex justify-center space-x-6 mb-4">
             <a
               href="https://www.linkedin.com/in/laura-hallx/"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-gray-500 hover:text-purple-500"
             >
               <i className="fab fa-linkedin text-xl"></i>
             </a>
             <a
-              href="podinjshmi1993@gmail.com"
+              href="mailto:podinjshmi1993@gmail.com"
               className="text-gray-500 hover:text-purple-500"
             >
               <i className="fas fa-envelope text-xl"></i>
@@ -53,6 +55,8 @@ const Footer = () => {
             </a> */}
             <a
               href="https://blog.laurah.dev/"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-gray-500 hover:text-purple-500"
             >
               <i className="fas fa-blog text-xl"></i>
