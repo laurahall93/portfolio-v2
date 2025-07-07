@@ -42,13 +42,19 @@ const Footer = () => {
             >
               <i className="fab fa-linkedin text-xl"></i>
             </a>
-            <a href="" className="text-gray-500 hover:text-purple-500">
+            <a
+              href="podinjshmi1993@gmail.com"
+              className="text-gray-500 hover:text-purple-500"
+            >
               <i className="fas fa-envelope text-xl"></i>
             </a>
-            <a href="#" className="text-gray-500 hover:text-purple-500">
+            {/* <a href="#" className="text-gray-500 hover:text-purple-500">
               <i className="fab fa-twitter text-xl"></i>
-            </a>
-            <a href="#" className="text-gray-500 hover:text-purple-500">
+            </a> */}
+            <a
+              href="https://blog.laurah.dev/"
+              className="text-gray-500 hover:text-purple-500"
+            >
               <i className="fas fa-blog text-xl"></i>
             </a>
           </div>
