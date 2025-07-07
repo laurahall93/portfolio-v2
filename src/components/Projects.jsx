@@ -5,20 +5,21 @@ import littleJob from "../assets/jobMate.jpg";
 import bandb from "../assets/b&b.jpg";
 import blog from "../assets/blog.png";
 import santa from "../assets/christmas.jpg";
+import taskmaster from "../assets/taskmaster.png";
 
 const projectsData = [
   {
     imgSrc: santa,
     title: "Secret Santa",
     description:
-      "Share your wishlist and let the app send gift ideas to your gifter — no awkward guessing, just perfect surprises!",
+      "Comming soon. Share your wishlist and let the app send gift ideas to your gifter — no awkward guessing, just perfect surprises!",
     year: "2025",
   },
   {
     imgSrc: blog,
     title: "She Codes & Grow",
     description:
-      "Mobile application for discovering and booking unique travel experiences.",
+      "Live. Mobile application for discovering and booking unique travel experiences.",
     year: "2025",
     link: "https://blog.laurah.dev",
   },
@@ -26,30 +27,28 @@ const projectsData = [
     imgSrc: bandb,
     title: "Body&Balance",
     description:
-      "Get customized workouts, real-time guidance. Your AI companion for reaching your fitness goals.",
+      "Comming soon. Get customized workouts, real-time guidance. Your AI companion for reaching your fitness goals.",
     year: "2025",
   },
   {
     imgSrc: littleJob,
     title: "JobMate",
     description:
-      "Smart extension that auto-fills job application forms with your CV details",
+      "Comming soon. Smart extension that auto-fills job application forms with your CV details",
     year: "2025",
   },
   {
     imgSrc: littleEars,
     title: "Little Ears",
     description:
-      "AI-powered app that creates personalized, soothing tales to spark imagination and help kids fall asleep with a smile.",
+      "Comming soon. AI-powered app that creates personalized, soothing tales to spark imagination and help kids fall asleep with a smile.",
     year: "2025",
   },
   {
-    imgSrc:
-      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
-    title: "Mobile Dashboard",
-    description:
-      "Analytics dashboard for a health tracking mobile application.",
-    year: "2021",
+    imgSrc: taskmaster,
+    title: "ChoreMaster",
+    description: "Comming soon. Task companion for your everyday life",
+    year: "2025",
   },
 ];
 
